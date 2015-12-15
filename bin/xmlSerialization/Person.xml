@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serialized>
+	<object class="xmlSerialization.Person" id="0">
+		<field name="name" declaringclass="xmlSerialization.Person">
+			<reference>1</reference>
+		</field>
+		<field name="age" declaringclass="xmlSerialization.Person">
+			<value>38</value>
+		</field>
+	</object>
+	<object class="java.lang.String" id="1">
+		<field name="value" declaringclass="java.lang.String">
+			<reference>2</reference>
+		</field><field name="hash" declaringclass="java.lang.String">
+			<value>0</value>
+		</field>
+	</object>
+	<object class="[C" id="2" length="4">
+		<value>Y</value>
+		<value>o</value>
+		<value>a</value>
+		<value>v</value>
+	</object>
+</serialized>
